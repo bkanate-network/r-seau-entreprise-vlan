@@ -15,6 +15,7 @@ segmentation VLAN, routage inter-VLAN et supervision réseau.
 | `schemas/` | Topologie réseau, plan d'adressage |
 | `configs/` | Fichiers de configuration des équipements |
 | `captures/` | Captures d'écran des tests et résultats |
+| `simulations/` | Fichiers de simulation Cisco Packet Tracer |
 
 ## 👤 Auteur
 **Kanate Bouraima** — ingenieur junior Réseaux & Télécommunications  

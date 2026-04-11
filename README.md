@@ -37,8 +37,8 @@ Projet personnel realisé dans le cadre d'aquisition de competence, Abidjan.
 
 - VLANs 802.1Q : segmentation en 4 zones (Direction, Employés, Serveurs, DMZ)
 - Trunk dot1Q : interconnexion Switch L3 ↔ Switches L2
-- Routage inter-VLAN : Switch L3 avec interfaces SVI + `ip routing`
-- DHCP centralisé : 4 pools + relay agent `ip helper-address`
+- Routage inter-VLAN : Switch L3 avec interfaces SVI + ip routing
+- DHCP centralisé : 4 pools + relay agent ip helper-address
 - DNS : enregistrements A pour les ressources internes
 - ACLs étendues : politique de cloisonnement par département
 - Syslog : centralisation des journaux sur Server0 (UDP 514)
@@ -69,8 +69,8 @@ Projet personnel realisé dans le cadre d'aquisition de competence, Abidjan.
 
 ## Technologies
 
-`Cisco IOS` `VLAN 802.1Q` `Routage L3` `SVI` `DHCP Relay`
-`DNS` `ACL étendues` `Syslog` `SNMP v2c` `Packet Tracer`
+Cisco IOS` `VLAN 802.1Q` `Routage L3` `SVI` `DHCP Relay
+DNS` `ACL étendues` `Syslog` `SNMP v2c` `Packet Tracer
 
 ## Auteur
 
